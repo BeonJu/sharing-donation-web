@@ -1,1 +1,4 @@
-# sharing-donation-web
+안녕하세요 김범주 입니다.
+
+GiveEasy 팀 프로젝트 입니다.
+
